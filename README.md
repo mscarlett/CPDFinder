@@ -1,7 +1,7 @@
 # CPDFinder
 Pipeline for obtaining compensated pathogenic deviations from public databases and performing machine learning.
 
-Note: I began this project several months ago but did a very sloppy job, so at some point I hope to redo everything when my semester is over.
+Note: I began this project several months ago but did a very sloppy job, so at some point I hope to redo everything. I also encountered bottlenecks due to inaccurate data from OMIM regarding the disease-causing mutations and thus have revised my procedure.
 
 The goal of this project is to use machine learning to analyze which features are most important for predicting whether disease-causing mutations in human proteins occur as the most common allelic variant in nonhuman proteins which have similar functionality (in which case the mutation is said to ba a compensated pathogenic deviation) or if this compensation does not occur.
 
